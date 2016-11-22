@@ -7,6 +7,10 @@
 .loading-area {
   margin-top: 50%;
 }
+.no-warning {
+  margin-top: 50%;
+  color: #666666;
+}
 
 .spacer {margin: 10px;}
 .warning-card {
