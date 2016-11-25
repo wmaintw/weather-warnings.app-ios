@@ -1,5 +1,5 @@
 'use strict';
 
 angular.module('configuration', [])
-  .constant('ACTIVE_WARNING_URL', 'http://104.131.134.129:4567/active-warning')
-  .constant('WARNING_HISTORY_URL', 'http://104.131.134.129:4567/warning-history');
+  .constant('ACTIVE_WARNING_URL', 'https://weather-warning-api.herokuapp.com/active-warning')
+  .constant('WARNING_HISTORY_URL', 'https://weather-warning-api.herokuapp.com/warning-history');
